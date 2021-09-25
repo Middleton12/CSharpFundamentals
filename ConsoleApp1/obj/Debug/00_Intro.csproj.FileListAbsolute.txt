@@ -1,0 +1,7 @@
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\obj\Debug\00_Intro.csproj.AssemblyReference.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\obj\Debug\00_Intro.csproj.CoreCompileInputs.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.exe.config
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.csproj.CoreCompileInputs.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.pdb
