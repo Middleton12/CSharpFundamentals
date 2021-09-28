@@ -1,0 +1,6 @@
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\bin\Debug\07_ClassesNew.dll
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\bin\Debug\07_ClassesNew.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\obj\Debug\07_ClassesNew.csproj.AssemblyReference.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\obj\Debug\07_ClassesNew.csproj.CoreCompileInputs.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\obj\Debug\07_ClassesNew.dll
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesNew\obj\Debug\07_ClassesNew.pdb

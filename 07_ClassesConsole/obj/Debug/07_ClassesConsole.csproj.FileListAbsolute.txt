@@ -1,0 +1,10 @@
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.exe.config
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesNew.dll
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesNew.pdb
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.AssemblyReference.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.CoreCompileInputs.cache
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.CopyComplete
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.exe
+C:\Users\quick\OneDrive\Documents\ElevenFiftyProjects\EFA\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.pdb
